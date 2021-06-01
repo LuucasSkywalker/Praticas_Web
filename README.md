@@ -1,2 +1,2 @@
 # Praticas_Web
- Praticas web sem uso de Frameworks
+ Praticas web sem uso de Frameworks / LucasC
